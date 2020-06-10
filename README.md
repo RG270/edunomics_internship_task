@@ -1,3 +1,14 @@
+Instructions:-
+
+Clone or download the repository.
+
+Open command prompt and in the folder edunomics_task
+and enter command "npm start"
+
+Then the project will open.
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
