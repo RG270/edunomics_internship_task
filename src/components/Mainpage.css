@@ -1,0 +1,43 @@
+
+.main-background{
+    background-image: url('main-background.jpg');
+    background-attachment: fixed;
+    background-size: contain;
+}
+.navbar{
+    height: 120px;
+}
+.welcome-text{
+    /* margin: 100px 100px 0px 100px; */
+    padding: 100px 0px 150px 0px;
+}
+.welcome-text-1{
+    font-size: 40px;
+    color: white;
+    font-stretch: expanded;
+}
+.welcome-text-2{
+    font-size: 30px;
+    color: white;
+    font-weight: 1500;
+}
+.feature-image img{
+    width: inherit;
+    padding: 50px;
+}
+
+.description{
+    font-family: cursive;
+}
+.round-outline{
+    border: 1px solid white;
+    margin: 10px;
+    padding: 10px;
+    border-radius: 20%;
+}
+
+.footer{
+    background-color: #111D;
+    padding: 100px;
+    width: 100%;
+}

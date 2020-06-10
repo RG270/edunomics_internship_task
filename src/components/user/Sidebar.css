@@ -1,0 +1,10 @@
+.sidebar{
+    background-color: #111D;
+    height: 100vh;
+}
+.heading{
+    font-size: 30px;
+}
+.sidebar-button:hover{
+    background-color: #AAAD;
+}
