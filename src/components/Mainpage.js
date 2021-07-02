@@ -1,3 +1,4 @@
+/* eslint-disable jsx-a11y/anchor-is-valid */
 import React, { Component } from 'react'
 import './Mainpage.css'
 import { Link } from "react-router-dom";
@@ -169,11 +170,11 @@ export class Mainpage extends Component {
                     
                 </div>
                 <div class='container mt-5'>
-                    <a> JOIN US </a> | 
-                    <a> COOKIE POLICY </a> | 
-                    <a> TERMS OF USE </a> | 
-                    <a> TECH </a> |
-                    <a> PRIVACY POLICY </a>
+                    <a href="#"> JOIN US </a> | 
+                    <a href="#"> COOKIE POLICY </a> | 
+                    <a href="#"> TERMS OF USE </a> | 
+                    <a href="#"> TECH </a> |
+                    <a href="#"> PRIVACY POLICY </a>
                 </div>
             </div>
         </div>
